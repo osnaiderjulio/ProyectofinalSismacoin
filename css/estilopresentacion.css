@@ -1,0 +1,41 @@
+/* Estilo para el encabezado */
+header {
+  background-color: #333; /* Color de fondo */
+  color: #fff; /* Color del texto */
+  padding: 20px; /* Espaciado interior */
+  text-align: center; /* Alineación del texto */
+}
+
+/* Estilo para el título principal */
+h2 {
+  font-size: 36px; /* Tamaño de fuente */
+  margin-bottom: 10px; /* Margen inferior */
+}
+
+/* Estilo para el subtítulo */
+h4 {
+  font-size: 24px; /* Tamaño de fuente */
+  margin-top: 0; /* Eliminar margen superior */
+}
+
+/* Estilo para el párrafo */
+p {
+  font-size: 18px; /* Tamaño de fuente */
+  line-height: 1.5; /* Espaciado entre líneas */
+  margin-bottom: 20px; /* Margen inferior */
+}
+
+/* Estilo para el contenedor principal */
+#container {
+  max-width: 800px; /* Ancho máximo del contenedor */
+  margin: 0 auto; /* Centrar el contenedor horizontalmente */
+  padding: 20px; /* Espaciado interior */
+}
+
+/* Estilo para el encabezado incluido con PHP */
+#header {
+  background-color: #555; /* Color de fondo */
+  color: #fff; /* Color del texto */
+  padding: 10px; /* Espaciado interior */
+  text-align: center; /* Alineación del texto */
+}

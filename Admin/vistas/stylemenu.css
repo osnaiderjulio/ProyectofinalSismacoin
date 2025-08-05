@@ -1,0 +1,70 @@
+
+
+/* Estilos para el título */
+h1 {
+    font-size: 4px;
+    color: #333;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+	
+}
+.header{
+	color: #FFF;
+	background: #45B39D;
+	height: 35px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+	padding: 50px 40px 40px;
+}
+.optionsBar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .optionsBar p, .optionsBar span {
+    color: #000000; /* Cambia el color del texto de la fecha y las barras */
+    margin: 0 10px; /* Espacio entre los elementos de la barra de opciones */
+  }
+.photouser {
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+}
+.close{
+	width: 30px;
+  height: 30px;
+}
+.optionsBar a {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    margin-left: 30px;
+}
+nav ul li:hover ul{
+	display: block;
+}
+
+.user {
+    color: #c7bfa2; /* Cambia el color del nombre de usuario */
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  .optionsBar {
+    align-items: center;
+    font-weight: bold;
+   
+  }
+  #container,#parrafo{
+    font-size: 40px;
+    color: #333;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+  }
